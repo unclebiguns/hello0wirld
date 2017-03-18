@@ -1,2 +1,2 @@
 # hello0wirld
-practice app
+I'm a SQL Server Database Developer/Architect
